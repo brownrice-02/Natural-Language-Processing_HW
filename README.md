@@ -7,7 +7,7 @@ NLP 2022 Spring
 
 ### Part 2: N-Gram Model and POS Tagging 
 - Build a 2-gram model with the processed dataset.
-- Show the top-5 probable next words and their probabilities after the initial token ‘<s>’.
+- Show the top-5 probable next words and their probabilities after the initial token.
 - Generate a sentence with the 2-gram model and find the corresponding POS taggings.
 
 ### Part 3: Evaluation
@@ -30,7 +30,3 @@ NLP 2022 Spring
 
 ## Lab 4: Text Classification with BERT
 - Utilize BERT (Bidirectional Encoder Representations from Transformers) for text classification tasks.
-
-Feel free to explore each lab's directory for detailed implementations and explanations of the respective tasks. If you have any questions or suggestions, please don't hesitate to reach out.
-
-Happy coding! 😊
