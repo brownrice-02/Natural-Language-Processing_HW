@@ -14,20 +14,18 @@ NLP 2022 Spring
 
 ## Lab 2: Clustering Techniques
 ### Part 1: K-Means Clustering
-- **Problem 1-1:** Determine the optimal value of k.
-- **Problem 1-2:** Discuss the observations and findings.
+- Determine the optimal value of k.
 
 ### Part 2: Agglomerative Clustering
-- **Problem 2-1:** Implement three hierarchical clustering methods.
-- **Problem 2-2:** Discuss the observations and findings.
+- Implement three hierarchical clustering methods.
 
 ## Lab 3: Parsing and HMM Implementation
-### Parsing
+### Part 1: Parsing
 - Render dependency trees.
 - Implement constituency parsing.
 - Perform dependency parsing using Spacy.
 
-### HMM Implementation
+### Part 2: HMM Implementation
 - Solve the POS tagging task with Hidden Markov Models (HMM) and Viterbi algorithm.
 
 ## Lab 4: Text Classification with BERT
